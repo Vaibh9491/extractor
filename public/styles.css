@@ -1,0 +1,109 @@
+.container{
+  border: 2px solid black;
+  background-color: white;
+  width:800px;
+  height: 300px;
+  padding:20px;
+  margin: 100px auto;
+  border-radius: 5px;
+
+}
+
+.btn{
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 200px;
+  margin: 50px;
+  color: white;
+  background-color: #2962ff;
+  border-color:#2962ff;
+  border-radius: 10px;
+  margin-left: 300px;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+
+}
+.btn:hover{
+  background-color: blue;
+
+}
+
+.p1{
+  color:#fbfbfb96;
+}
+.btn:hover{
+
+}
+.link {
+  padding-left: 50px;
+  text-decoration: none;
+}
+.link:hover{
+  text-decoration: underline;
+}
+.gmi{
+    margin:-6px auto;
+}
+.link1{
+  padding-left: 170px;
+  text-decoration: none;
+}
+.link1:hover{
+  text-decoration: underline;
+}
+
+.gmi1{
+    margin:-6px auto;
+}
+
+.link2{
+  padding-left: 150px;
+  text-decoration: none;
+}
+.link2:hover{
+  text-decoration: underline;
+}
+.gmi2{
+    margin:-6px auto;
+}
+
+.drag{
+  text-align: center;
+  color: #938484;
+
+}
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+.dark-mode {
+  background-color: #938484;
+  color: white;
+}
+.mode{
+  float: right;
+}
+
+.head1{
+  margin-left: 500px;
+  color: black;
+  text-decoration: none;
+
+}
+.head1:hover{
+  text-decoration: underline;
+  color: blue;
+}
+
+.arc{
+  width: 50px;
+}
+
+.kal{
+    display:none;
+  }
